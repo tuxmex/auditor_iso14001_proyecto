@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "norma": "ISO 14001:2015 (con Enmienda 1:2024)",
+  "formato": "F-OSC-39 Rev. 4",
+  "clausulas": [
+    {
+      "numero": "4.1",
+      "titulo": "Organización y su contexto",
+      "proposito": "El área entiende el entorno interno y externo que influye en lo que puede lograr con su gestión ambiental.",
+      "preguntas": [
+        {
+          "id": "4.1-1",
+          "texto": "¿El área identificó los asuntos externos (legales, climáticos, sociales, económicos, del entorno físico) que pueden afectar su desempeño ambiental?",
+          "evidencia": "Análisis de contexto (FODA, PESTEL u otro), minutas de reunión."
+        },
+        {
+          "id": "4.1-2",
+          "texto": "¿El área identificó los asuntos internos (instalaciones, recursos, cultura, procesos, personal) que influyen en su desempeño ambiental?",
+          "evidencia": "Análisis de contexto, inventario de instalaciones y procesos."
+        },
+        {
+          "id": "4.1-3",
+          "texto": "¿El área determinó si el cambio climático es un asunto relevante para su contexto y dejó constancia de su conclusión? (Enmienda 1:2024)",
+          "evidencia": "Registro de la decisión, análisis de contexto con el tema climático."
+        },
+        {
+          "id": "4.1-4",
+          "texto": "¿El análisis de contexto se revisa periódicamente y sus cambios se reflejan en la planificación del sistema?",
+          "evidencia": "Fecha de la última revisión, actas de revisión por la dirección."
+        }
+      ]
+    },
+    {
+      "numero": "4.2",
+      "titulo": "Partes interesadas",
+      "proposito": "El área sabe quién puede afectarla o verse afectado por ella, y qué espera de su gestión ambiental.",
+      "preguntas": [
+        {
+          "id": "4.2-1",
+          "texto": "¿El área identificó a sus partes interesadas relevantes (estudiantes, personal, autoridades, vecinos, proveedores, contratistas)?",
+          "evidencia": "Matriz o listado de partes interesadas."
+        },
+        {
+          "id": "4.2-2",
+          "texto": "¿Se determinaron las necesidades y expectativas de cada parte interesada que son relevantes para el sistema de gestión ambiental?",
+          "evidencia": "Matriz de necesidades y expectativas, encuestas, correos."
+        },
+        {
+          "id": "4.2-3",
+          "texto": "¿El área decidió cuáles de esas necesidades y expectativas adopta como requisitos legales u otros requisitos?",
+          "evidencia": "Registro de decisiones, lista de requisitos aplicables."
+        },
+        {
+          "id": "4.2-4",
+          "texto": "¿El área consideró que las partes interesadas pueden tener necesidades relacionadas con el clima, y lo documentó? (Enmienda 1:2024)",
+          "evidencia": "Matriz de partes interesadas con la columna o nota sobre clima."
+        }
+      ]
+    },
+    {
+      "numero": "5.2",
+      "titulo": "Política ambiental",
+      "proposito": "La alta dirección fija el rumbo ambiental y lo comunica.",
+      "preguntas": [
+        {
+          "id": "5.2-1",
+          "texto": "¿Existe una política ambiental vigente, aprobada por la alta dirección y adecuada al propósito y al contexto de la institución?",
+          "evidencia": "Documento de la política con firma, fecha y versión."
+        },
+        {
+          "id": "5.2-2",
+          "texto": "¿La política incluye compromisos de protección del ambiente (incluida la prevención de la contaminación), de cumplimiento de requisitos y de mejora continua?",
+          "evidencia": "Texto de la política."
+        },
+        {
+          "id": "5.2-3",
+          "texto": "¿La política ofrece un marco para establecer y revisar los objetivos ambientales?",
+          "evidencia": "Relación entre política y objetivos del área."
+        },
+        {
+          "id": "5.2-4",
+          "texto": "¿La política está documentada, se comunica dentro del área y está disponible para las partes interesadas que la soliciten?",
+          "evidencia": "Carteles, intranet, sitio web, inducciones."
+        }
+      ]
+    },
+    {
+      "numero": "5.3",
+      "titulo": "Roles y responsabilidades",
+      "proposito": "Cada persona sabe qué le toca hacer y con qué autoridad en el sistema de gestión ambiental.",
+      "preguntas": [
+        {
+          "id": "5.3-1",
+          "texto": "¿Las responsabilidades y autoridades del sistema ambiental están asignadas en el área?",
+          "evidencia": "Organigrama, descripciones de puesto, nombramientos."
+        },
+        {
+          "id": "5.3-2",
+          "texto": "¿El personal entrevistado conoce las responsabilidades ambientales que le corresponden?",
+          "evidencia": "Entrevista a dos o tres personas del área."
+        },
+        {
+          "id": "5.3-3",
+          "texto": "¿Hay una persona con autoridad designada para informar a la alta dirección sobre el desempeño del sistema?",
+          "evidencia": "Nombramiento, informes enviados a la dirección."
+        },
+        {
+          "id": "5.3-4",
+          "texto": "¿Las personas con roles ambientales cuentan con tiempo y recursos para cumplirlos?",
+          "evidencia": "Horas asignadas, presupuesto, equipo disponible."
+        }
+      ]
+    },
+    {
+      "numero": "6.1",
+      "titulo": "Riesgos y oportunidades",
+      "proposito": "El área piensa de antemano qué puede salir mal o mejor, y actúa en consecuencia.",
+      "preguntas": [
+        {
+          "id": "6.1-1",
+          "texto": "¿El área determinó los riesgos y oportunidades ligados a sus aspectos ambientales, requisitos legales, contexto y partes interesadas?",
+          "evidencia": "Matriz de riesgos y oportunidades."
+        },
+        {
+          "id": "6.1-2",
+          "texto": "¿Se consideraron las situaciones potenciales de emergencia (incendio, derrame, fuga, inundación) dentro de ese análisis?",
+          "evidencia": "Escenarios de emergencia identificados."
+        },
+        {
+          "id": "6.1-3",
+          "texto": "¿Se planificaron acciones para abordar esos riesgos y oportunidades, integradas a los procesos del área?",
+          "evidencia": "Plan de acciones, responsables y fechas."
+        },
+        {
+          "id": "6.1-4",
+          "texto": "¿El área evalúa si las acciones tomadas fueron eficaces y conserva evidencia de lo que determinó?",
+          "evidencia": "Seguimiento de acciones, informes de resultados."
+        }
+      ]
+    },
+    {
+      "numero": "6.1.2",
+      "titulo": "Aspectos ambientales",
+      "proposito": "El área sabe qué de lo que hace interactúa con el ambiente y cuáles interacciones importan más.",
+      "preguntas": [
+        {
+          "id": "6.1.2-1",
+          "texto": "¿Existe un listado de actividades, productos y servicios del área con sus aspectos ambientales (agua, energía, residuos, emisiones, descargas, ruido)?",
+          "evidencia": "Inventario de aspectos ambientales."
+        },
+        {
+          "id": "6.1.2-2",
+          "texto": "¿El análisis contempla condiciones normales, anormales (arranques, mantenimientos) y de emergencia?",
+          "evidencia": "Columnas o secciones por condición de operación."
+        },
+        {
+          "id": "6.1.2-3",
+          "texto": "¿Se tomó en cuenta la perspectiva del ciclo de vida (compras, uso, disposición final) en lo que el área controla o influye?",
+          "evidencia": "Criterios de compra, destino final de residuos y equipos."
+        },
+        {
+          "id": "6.1.2-4",
+          "texto": "¿Hay criterios definidos para decidir cuáles aspectos son significativos y se aplican de manera consistente?",
+          "evidencia": "Metodología de evaluación, matriz con calificaciones."
+        },
+        {
+          "id": "6.1.2-5",
+          "texto": "¿La lista de aspectos significativos se mantiene actualizada y se comunica a los niveles pertinentes?",
+          "evidencia": "Fecha de actualización, evidencia de comunicación."
+        }
+      ]
+    },
+    {
+      "numero": "6.2",
+      "titulo": "Objetivos ambientales y planificación para lograrlos",
+      "proposito": "El área se pone metas ambientales concretas y un plan para alcanzarlas.",
+      "preguntas": [
+        {
+          "id": "6.2-1",
+          "texto": "¿El área tiene objetivos ambientales coherentes con la política y medibles (o evaluables)?",
+          "evidencia": "Programa de objetivos con indicadores."
+        },
+        {
+          "id": "6.2-2",
+          "texto": "¿Los objetivos toman en cuenta los aspectos significativos, los requisitos aplicables y los riesgos y oportunidades?",
+          "evidencia": "Relación documentada entre objetivos y su origen."
+        },
+        {
+          "id": "6.2-3",
+          "texto": "¿Existe un plan que define qué se hará, con qué recursos, quién responde, cuándo termina y cómo se evaluarán los resultados?",
+          "evidencia": "Plan de acción por objetivo."
+        },
+        {
+          "id": "6.2-4",
+          "texto": "¿Se da seguimiento a los objetivos y se actualizan cuando es necesario?",
+          "evidencia": "Tablero de avance, minutas, revisiones."
+        }
+      ]
+    },
+    {
+      "numero": "7.3",
+      "titulo": "Toma de conciencia",
+      "proposito": "Las personas entienden por qué la gestión ambiental importa y cuál es su parte.",
+      "preguntas": [
+        {
+          "id": "7.3-1",
+          "texto": "¿El personal del área conoce la política ambiental?",
+          "evidencia": "Entrevistas, evaluación breve, evidencia de difusión."
+        },
+        {
+          "id": "7.3-2",
+          "texto": "¿Conoce los aspectos ambientales significativos relacionados con su trabajo y los impactos reales o potenciales?",
+          "evidencia": "Entrevistas, registros de capacitación."
+        },
+        {
+          "id": "7.3-3",
+          "texto": "¿Entiende cómo contribuye a la eficacia del sistema y qué se gana con un mejor desempeño ambiental?",
+          "evidencia": "Entrevistas."
+        },
+        {
+          "id": "7.3-4",
+          "texto": "¿Sabe qué implica no cumplir los requisitos del sistema, incluidos los legales?",
+          "evidencia": "Entrevistas, material de inducción."
+        },
+        {
+          "id": "7.3-5",
+          "texto": "¿Las personas que trabajan en nombre del área (contratistas, servicio social, becarios) también están al tanto?",
+          "evidencia": "Inducciones, reglamentos entregados, registros de asistencia."
+        }
+      ]
+    },
+    {
+      "numero": "7.4",
+      "titulo": "Comunicación",
+      "proposito": "El área sabe qué comunicar, a quién, cuándo y cómo, y también escucha.",
+      "preguntas": [
+        {
+          "id": "7.4-1",
+          "texto": "¿El área definió qué, cuándo, a quién y cómo comunica en materia ambiental, tanto hacia dentro como hacia fuera?",
+          "evidencia": "Procedimiento o matriz de comunicación."
+        },
+        {
+          "id": "7.4-2",
+          "texto": "¿Se tomaron en cuenta los requisitos legales al decidir qué comunicar?",
+          "evidencia": "Relación entre obligaciones de reporte y la matriz."
+        },
+        {
+          "id": "7.4-3",
+          "texto": "¿La información que se comunica es consistente con la del sistema y es confiable?",
+          "evidencia": "Comparación de comunicados con registros del sistema."
+        },
+        {
+          "id": "7.4-4",
+          "texto": "¿Existe forma de recibir, documentar y responder las comunicaciones relevantes de las partes interesadas?",
+          "evidencia": "Buzón, correo, bitácora de quejas y respuestas."
+        },
+        {
+          "id": "7.4-5",
+          "texto": "¿Hay evidencia de comunicaciones internas y externas realizadas?",
+          "evidencia": "Oficios, circulares, carteles, correos."
+        }
+      ]
+    },
+    {
+      "numero": "7.5",
+      "titulo": "Información documentada",
+      "proposito": "Los documentos y registros que el sistema necesita existen, se controlan y se pueden confiar.",
+      "preguntas": [
+        {
+          "id": "7.5-1",
+          "texto": "¿El área cuenta con la información documentada que exige el sistema y la que ella misma determinó necesaria?",
+          "evidencia": "Listado maestro de documentos y registros."
+        },
+        {
+          "id": "7.5-2",
+          "texto": "¿Los documentos tienen identificación y descripción adecuadas (título, fecha, autor, código, versión) y un formato apropiado?",
+          "evidencia": "Muestra de documentos del área."
+        },
+        {
+          "id": "7.5-3",
+          "texto": "¿Se controla su aprobación, distribución, acceso, uso y cambios, de modo que solo las versiones vigentes estén en los puntos de uso?",
+          "evidencia": "Control de versiones, lista de distribución."
+        },
+        {
+          "id": "7.5-4",
+          "texto": "¿Los registros se almacenan, protegen y conservan según un criterio de retención definido?",
+          "evidencia": "Criterio de retención, archivo físico o digital."
+        },
+        {
+          "id": "7.5-5",
+          "texto": "¿La información de origen externo que el sistema necesita (normas, permisos, manuales) está identificada y controlada?",
+          "evidencia": "Permisos, licencias, manuales de proveedores."
+        }
+      ]
+    },
+    {
+      "numero": "8.1",
+      "titulo": "Planificación y control operacional",
+      "proposito": "Los procesos que importan para el ambiente se ejecutan con control, también cuando hay cambios o emergencias.",
+      "preguntas": [
+        {
+          "id": "8.1-1",
+          "texto": "¿Los procesos ligados a aspectos significativos y requisitos legales están definidos y controlados con criterios operacionales (procedimientos, instrucciones)?",
+          "evidencia": "Procedimientos, instrucciones de trabajo, bitácoras."
+        },
+        {
+          "id": "8.1-2",
+          "texto": "¿Se controlan los cambios planeados y se revisan las consecuencias de los cambios no previstos?",
+          "evidencia": "Registros de cambios, análisis posteriores."
+        },
+        {
+          "id": "8.1-3",
+          "texto": "¿Se controlan o se influye sobre los procesos contratados con terceros (limpieza, jardinería, mantenimiento, residuos) y se les comunican los requisitos ambientales?",
+          "evidencia": "Contratos, cláusulas ambientales, evaluaciones de proveedores."
+        },
+        {
+          "id": "8.1-4",
+          "texto": "¿Existen planes de preparación y respuesta ante emergencias, se prueban periódicamente y se revisan después de un incidente?",
+          "evidencia": "Planes, simulacros, extintores, kits de derrame, informes."
+        },
+        {
+          "id": "8.1-5",
+          "texto": "¿Se conserva información de que los procesos se realizaron como se planearon?",
+          "evidencia": "Bitácoras, manifiestos de residuos, listas de verificación."
+        }
+      ]
+    },
+    {
+      "numero": "9.1",
+      "titulo": "Seguimiento, medición, análisis y evaluación",
+      "proposito": "El área mide lo que importa, confía en sus mediciones y usa los resultados.",
+      "preguntas": [
+        {
+          "id": "9.1-1",
+          "texto": "¿El área determinó qué se debe medir, con qué método, con qué criterios y cuándo se miden y analizan los resultados?",
+          "evidencia": "Programa de seguimiento, indicadores."
+        },
+        {
+          "id": "9.1-2",
+          "texto": "¿Los equipos de medición usados están calibrados o verificados y se conserva evidencia de ello?",
+          "evidencia": "Certificados de calibración, bitácoras de verificación."
+        },
+        {
+          "id": "9.1-3",
+          "texto": "¿Se evalúa periódicamente el cumplimiento de los requisitos legales y otros requisitos, y se conserva evidencia?",
+          "evidencia": "Informes de evaluación de cumplimiento."
+        },
+        {
+          "id": "9.1-4",
+          "texto": "¿Los datos se analizan para detectar tendencias y los resultados se comunican a quien corresponde?",
+          "evidencia": "Gráficas de consumo, informes, minutas."
+        },
+        {
+          "id": "9.1-5",
+          "texto": "¿Cuando se detectan incumplimientos o desviaciones se toman acciones y se da seguimiento?",
+          "evidencia": "Registros de acciones y su cierre."
+        }
+      ]
+    },
+    {
+      "numero": "10.3",
+      "titulo": "Mejora continua",
+      "proposito": "El sistema no se queda quieto: se vuelve más adecuado y eficaz con el tiempo.",
+      "preguntas": [
+        {
+          "id": "10.3-1",
+          "texto": "¿El área busca de forma activa mejorar la idoneidad, adecuación y eficacia de su sistema para mejorar el desempeño ambiental?",
+          "evidencia": "Iniciativas de mejora, propuestas del personal."
+        },
+        {
+          "id": "10.3-2",
+          "texto": "¿Se pueden mostrar mejoras concretas recientes (menos consumo, menos residuos, menos incidentes)?",
+          "evidencia": "Comparativos antes y después, indicadores."
+        },
+        {
+          "id": "10.3-3",
+          "texto": "¿Las decisiones de mejora se apoyan en los resultados del seguimiento, las auditorías y la revisión por la dirección?",
+          "evidencia": "Actas de revisión por la dirección, informes de auditoría."
+        },
+        {
+          "id": "10.3-4",
+          "texto": "¿Se da seguimiento al cierre de los hallazgos de auditorías previas y se verifica que las acciones fueron eficaces?",
+          "evidencia": "Registro de hallazgos y acciones correctivas."
+        }
+      ]
+    }
+  ]
+}

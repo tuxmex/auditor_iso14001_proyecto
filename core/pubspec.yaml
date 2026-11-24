@@ -1,0 +1,10 @@
+name: auditoria_core
+description: Lógica pura de Dart (sin Flutter) para listas de verificación de auditoría ISO 14001 (formato F-OSC-39).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.3.0
+
+dev_dependencies:
+  test: ^1.25.0

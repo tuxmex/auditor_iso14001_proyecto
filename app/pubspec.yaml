@@ -1,0 +1,25 @@
+name: auditoria_iso14001
+description: Lista de verificación ISO 14001 (formato F-OSC-39 de la UTNG) con persistencia local y reporte en PDF.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auditoria_core:
+    path: ../core
+  path_provider: ^2.1.0
+  pdf: ">=3.10.0 <4.0.0"
+  printing: ">=5.12.0 <6.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/catalogo_iso14001.json
